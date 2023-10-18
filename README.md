@@ -20,8 +20,8 @@ __Description:__ Here's the home page in dark mode. Users can switch to dark mod
 __Description:__ This image displays the weather page for Delhi in dark mode. It offers a different color scheme for better readability in low-light conditions.
 
 
-![Screenshot (112)](https://github.com/shiv071/GetWeatherInfo-React/assets/105675048/8194a8fb-a96d-4c93-93c6-baf01512aaa7)
-![Screenshot (113)](https://github.com/shiv071/GetWeatherInfo-React/assets/105675048/3bf2b754-77b9-4ddc-adfe-283c84842026)
+![276169614-8194a8fb-a96d-4c93-93c6-baf01512aaa7](https://github.com/shiv071/GetWeatherInfo-React/assets/105675048/179a0b5e-500a-4a3f-95de-e8f4050855ac)
+![276169658-3bf2b754-77b9-4ddc-adfe-283c84842026](https://github.com/shiv071/GetWeatherInfo-React/assets/105675048/acce3c19-acc3-41bc-87df-192e6f5b7856)
 __Description:__ Here's the mobile view of the home page and weather page optimized for smaller screens and mobile devices.
 
 ## Pages 📚
