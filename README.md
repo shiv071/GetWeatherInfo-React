@@ -1,19 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+ # GetWeatherInfo Now
 
 ![Screenshot (106)](https://github.com/shiv071/GetWeatherInfo-React/assets/105675048/9f4701e8-24f6-4f09-9c8b-30576d360695)
 **Description:** This is the home page of the weather app. Users are prompted to enter the name of their city to retrieve weather information.
@@ -39,4 +24,18 @@ __Description:__ This image displays the weather page for Delhi in dark mode. It
 ![Screenshot (113)](https://github.com/shiv071/GetWeatherInfo-React/assets/105675048/3bf2b754-77b9-4ddc-adfe-283c84842026)
 __Description:__ Here's the mobile view of the home page and weather page optimized for smaller screens and mobile devices.
 
+## Pages 📚
 
+-  Home
+-  Weather
+-  About
+
+## Usage 🍕
+To use this project, follow these steps:
+- Clone the repository.
+- Install the dependencies using `npm install`.
+- Now go to the Weather API website...
+- Subscribe that API and copy the API key.
+- Create a `.env.local` file in the root directory and add your Weather API key as `REACT_APP_API_KEY=<your-api-key>`.
+- Start the development server using `npm start`.
+- Open your web browser and navigate to http://localhost:3000.
