@@ -9,8 +9,8 @@ const About = (props) => {
           knowledge and intelligence to drive the growth of the organization. With a
           solid understanding of technical concepts, I am highly motivated to learn
           and grow in the ever-evolving world of IT. <br /><br />React out to my  profiles -</p>
-        <p>Github:- <a target='_blank' rel='noreferrer' href="https://www.github.com/shiv071">https://www.github.com/shiv071</a></p>
-        <p>LinkedIn:- <a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/shivesh-kumar-rai-7b4a071ab/">https://www.linkedin.com/in/shivesh-kumar-rai-7b4a071ab/</a></p>
+        <p className='mb-5'><i class="fa-brands fa-github fa-2xl"></i> :- <a target='_blank' rel='noreferrer' href="https://www.github.com/shiv071">https://www.github.com/shiv071</a></p>
+        <p><i class="fa-brands fa-linkedin fa-2xl"></i> :- <a target='_blank' rel='noreferrer' href="https://www.linkedin.com/in/shivesh-kumar-rai-7b4a071ab/">https://www.linkedin.com/in/shivesh-kumar-rai-7b4a071ab/</a></p>
       </div>
     </div>
   )

@@ -98,20 +98,7 @@ body {
 .main_header_right {
     height: 40rem;
 }
- 
-footer {
-    width: 100%;
-    background-color: var(--maincolor);
-    margin-top: auto;
-}
 
-footer p {
-    margin: 0;
-    text-align: center;
-    color: var(--anothercolor);
-    line-height: 5rem;
-    font-size: 1.4rem;
-}
 
 /* CSS for Weather */
 .temp-form {
@@ -217,6 +204,7 @@ sup {
     visibility: hidden;
     transition: all 0.3s linear;
 }
+
 /* For Responsive */
 @media (max-width: 768px) {
     .main_header_left {

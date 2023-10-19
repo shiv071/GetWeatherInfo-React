@@ -9,7 +9,6 @@ import {
   Route,
   Routes
 } from "react-router-dom";
-import Footer from './components/Footer';
 
 
 function App() {
@@ -41,7 +40,6 @@ function App() {
           <Route path="/about" element={<About mode={mode} />}></Route>
         </Routes>
       </div>
-      {/* <Footer/> */}
     </BrowserRouter>
     </>
   );
